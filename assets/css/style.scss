@@ -1,0 +1,32 @@
+---
+---
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
+
+body {
+  max-width: 80%;
+  margin: auto;
+  font-family: Cambria, serif;
+}
+
+h1, h2 {
+  text-align: center;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#photo {
+  max-width: 400px;
+  border-radius: 50%;
+}
