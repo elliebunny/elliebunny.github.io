@@ -1,10 +1,11 @@
 ---
 layout: default
 ---
-#### [elle.garner@outlook.com](mailto:elle.garner@outlook.com) 
-#### **Business Development, Events, and Media.**
+#### [elle.garner@outlook.com](mailto:elle.garner@outlook.com)
 
 ![Elle Garner](assets/ElleGarnerPhoto.jpg){:#photo.center}
+
+#### **Business Development, Events, and Media.**
 
 <hr>
 
