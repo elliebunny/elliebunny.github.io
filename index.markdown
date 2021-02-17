@@ -54,7 +54,7 @@ Proficient in the use of:
 - Streaming Applications and Services (Twitch, OBS, Streamlabs)
 
 Familiarity in the use of:
-- HTML, Markdown 
+- HTML and CSS, Markdown (I built this website!)
 - Integromat
 - Sales Force
 - Adobe Applications (Photoshop, InDesign)
