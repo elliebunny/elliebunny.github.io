@@ -1,12 +1,11 @@
 ---
 layout: default
 ---
-#### [elle.garner@outlook.com](mailto:elle.garner@outlook.com)  
-
 ![Elle Garner](assets/ElleGarnerPhoto.jpg){:#photo.center}  
 
 #### **Business Development, Events, and Media.**  
-#### [Connect with me on LinkedIn](https://www.linkedin.com/in/ellegarner/)
+#### [Connect with me on LinkedIn](https://www.linkedin.com/in/ellegarner/)  
+#### [elle.garner@outlook.com](mailto:elle.garner@outlook.com)
 
 <hr>
 
