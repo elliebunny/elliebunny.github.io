@@ -64,4 +64,6 @@ Familiarity in the use of:
 ## **Interests**
 I was formerly president of the Bristol Donors society at the University of Bristol, helping to raise awareness of the importance of donating blood as well as recruiting new blood and organ donors. Over three years, I managed to build up the society’s membership as well as training the new committee to take over. I also have an interest in computing and technology, building my own PC, which I use for gaming, design and editing. My love for music has seen me take up singing and playing the guitar, which I practice and record in my spare time. 
 
+<hr>
+
 ## **References Available on Request**
