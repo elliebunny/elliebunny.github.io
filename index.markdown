@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-#### Bristol, UK
 #### [elle.garner@outlook.com](mailto:elle.garner@outlook.com)  
 
 ![Elle Garner](assets/ElleGarnerPhoto.jpg){:#photo.center}  
