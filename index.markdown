@@ -44,7 +44,7 @@ July 2013 - Present
 <hr>
 
 ## **Skills**
-Proficient in the use of:
+Proficiency in the use of:
 - Mailchimp 
 - Typeform
 - Airtable
