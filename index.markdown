@@ -2,6 +2,8 @@
 layout: default
 ---
 #### [elle.garner@outlook.com](mailto:elle.garner@outlook.com)
+#### Bristol, UK
+#### [Connect with me on LinkedIn](https://www.linkedin.com/in/ellegarner/)
 
 ![Elle Garner](assets/ElleGarnerPhoto.jpg){:#photo.center}  
 
