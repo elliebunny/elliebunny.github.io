@@ -1,21 +1,38 @@
 ---
 layout: default
 ---
-![Elle Garner](assets/ElleGarnerPhoto.jpg){:#photo.center}  
 
-#### **Business Development, Events, and Media**  
-#### [elle.garner@outlook.com](mailto:elle.garner@outlook.com)  
-#### [**Connect with me on LinkedIn**](https://www.linkedin.com/in/ellegarner/)
+<div id="intro" markdown="1">
 
-<hr>
+![Elle Garner](assets/ElleGarnerPhoto.jpg){:#photo.center}
 
-## **Personal Profile**
+# **Business Development, Events, and Media**  
+
+</div>
+
+<nav>
+    <button id="about_me-button" class="section-button selected" onclick="section_click(event, 'about_me')">About Me</button>
+    <button id="experience-button" class="section-button" onclick="section_click(event, 'experience')">Experience</button>
+    <button id="education-button" class="section-button" onclick="section_click(event, 'education')">Education & Skills</button>
+    <button id="projects-button" class="section-button" onclick="section_click(event, 'projects')">Projects</button>
+</nav>
+
+<div id="about_me" markdown="1" class="section">
 
 Through a variety of academic, business, and pastoral roles, I have been fortunate enough to gain a well-rounded, dynamic, and forward-thinking view into what makes a valuable and successful business. Responsibility is a feature I have always excelled in managing, and paired with my reliability, I have been trusted to take initiative and leadership in both professional and personal environments. I strive to become an asset to any new team, both socially and professionally, and pride myself on my problem-solving and flexibility. After graduating from the University of Bristol with a degree in Mathematics and Philosophy, I am now applying my skills in logical reasoning, data analysis, and communication, to pursue a career in Business Development, Events, and Media.
 
 <hr>
 
-## **Experience**
+My passion for both business development and the games industry has seen me take on voluntary roles as ‘Business Operations Director’ for a small Esports organisation based in the UK, as well as spending my spare time moderating Discord servers and helping out with the logistics and casting of small scale Esports tournaments. 
+
+I also have an interest in computing and technology, [building my own PC](https://imgur.com/59Fgf1N), which I use for gaming, design, and streaming, as well as recently teaching myself to code.
+
+From 2015 to 2018, I was appointed president of the Bristol Donors Society at the University of Bristol, helping to raise awareness of the importance of donating blood as well as recruiting and supporting first-time donors.
+
+</div>
+
+<div id="experience" markdown="1" class="section">
+
 ### **Business Development Executive** / *Bristol SU*
 > January 2020 - Present, Bristol, UK 
 
@@ -34,41 +51,33 @@ I am currently acting as a part-time showroom and sales assistant at the Tom How
 
 Acting as a Senior Resident for the University of Bristol, I was responsible for ensuring the pastoral care and wellbeing of incoming first-year students moving into halls of residence. Although challenging in nature, I thoroughly enjoyed taking on this responsibility and it enabled me to develop several new skills while pushing myself to be a well rounded, professional, and supportive individual. I was responsible for administration, support, and daily operation of the halls of residence, as well as organising events and providing pastoral talks to large numbers of students.
 
-<hr> 
+</div>
 
-## **Education**
+<div id="education" markdown="1" class="section">
+
 ### **University of Bristol** / *[Mathematics and Philosophy BSc Hons (2:1)](https://bristol.academia.edu/ElleGarner)*
-September 2014 - July 2018, UK
+> September 2014 - July 2018, UK
 
 ### **Coleg Cambria** / *A-Level Mathematics (A), A-Level Further Mathematics (A), A-Level English (B)*
-September 2011 - July 2014, Wrexham, UK
+> September 2011 - July 2014, Wrexham, UK
 
 ### **Full Clean UK Driving License**
-July 2013 - Present
+> July 2013 - Present
 
 <hr>
 
-## **Skills**
 Proficient in the use of:
 - CRM and Management Software (Mailchimp, Typeform, Airtable)
 - Graphic Design (Canva, ArtRage, Photoshop, InDesign)
 - Office Applications (Outlook, Teams, Excel, Powerpoint, Word)
 - Streaming Applications and Services (Twitch, OBS, Streamlabs)
 
-
 Familiar with:
 - Web Design (HTML, Markdown)
 - CRM Software (Integromat, SalesForce)
 
-<hr>
+</div>
 
-## **Interests**
-My passion for both business development and the games industry has seen me take on voluntary roles as ‘Business Operations Director’ for a small Esports organisation based in the UK, as well as spending my spare time moderating Discord servers and helping out with the logistics and casting of small scale Esports tournaments. 
+<div id="projects" markdown="1" class="section">
 
-I also have an interest in computing and technology, [building my own PC](https://imgur.com/59Fgf1N), which I use for gaming, design, and streaming, as well as recently teaching myself to code.
-
-From 2015 to 2018, I was appointed president of the Bristol Donors Society at the University of Bristol, helping to raise awareness of the importance of donating blood as well as recruiting and supporting first-time donors.
-
-<hr>
-
-## **References Available on Request**
+</div>

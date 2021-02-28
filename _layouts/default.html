@@ -4,12 +4,33 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;1,200&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
     <title>{{ site.name }}</title>
   </head>
   <body>
-    <h1>{{site.name}}</h1>
-    {{ content }}
+    <div id="header">
+      <nav>
+        <a id="home" href="#">{{ site.name }}</a>
+
+        <div id="profiles">
+          <a class="logo-link" href="mailto:elle.garner@outlook.com"
+                               alt="elle.garner@outlook.com">
+            {% include logos/email.html %}
+          </a>
+          <a class="logo-link" href="https://www.linkedin.com/in/ellegarner"
+                               alt="https://www.linkedin.com/in/ellegarner">
+            {% include logos/linkedin.html %}
+          </a>
+          <a class="logo-link" href="tel:+447421290929"
+                               alt="+44 7421 290 929">
+            {% include logos/phone.html %}
+          </a>
+        </div>
+      </nav>
+    </div>
+    <div id="content">
+      {{ content }}
+    </div>
+    <script src="/assets/js/scripts.js"></script>
   </body>
 </html>

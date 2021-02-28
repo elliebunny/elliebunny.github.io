@@ -1,24 +1,51 @@
 ---
 ---
 
-@import
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-  "minima/initialize";
+$white: #fff;
+$off-white: #eee;
+$gray: #bbb;
+
+$color-accent: #E91E63;
+$color-accent-dark: #AD1457;
+
+$header-height: 48px;
 
 body {
-  max-width: 80%;
-  margin: auto;
   font-family: 'IBM Plex Serif', serif; 
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  font-weight: 700;
+  color: $color-accent;
+  &:hover, &:focus, &:active {
+    color: $color-accent-dark;
+  }
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background: #333;
+  background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
 
 h1 {
   text-align: center;
   padding: 10px;
+  color: $color-accent;
+  font-size: 1.5em;
+  font-family: 'Playfair Display';
 }
 
-h1 {
-  font-size: 3em;
-  font-family: 'Playfair Display';
+h2 {
+  font-style: italic;
+}
+
+h2, h3 {
+  color: $color-accent-dark;
 }
 
 h4 {
@@ -27,8 +54,10 @@ h4 {
   font-family: 'Playfair Display';
 }
 
-h2 {
-  font-style: italic;
+#content {
+  width: 80%;
+  margin: 0 auto;
+  padding-top: $header-height;
 }
 
 .center {
@@ -37,7 +66,77 @@ h2 {
   margin-right: auto;
 }
 
+nav {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  font-size: 1.2em;
+}
+
+svg {
+  width: 1.2em;
+  margin: 0 0.5em;
+}
+
+.logo-svg {
+  fill: $color-accent;
+
+  &:hover {
+    fill: $color-accent-dark;
+  }
+}
+
+#header {
+  position: fixed;
+  width: 100%;
+  height: $header-height;
+  overflow: auto;
+  background-color: $off-white;
+  border-bottom: 1px solid rgba(0, 0, 0, .2);
+  display: flex;
+
+  nav {
+    justify-content: space-between;
+  }
+}
+
+#home {
+  font-size: 1.2em;
+}
+
+#intro {
+  padding: 5%;
+}
+
 #photo {
   max-width: 300px;
   border-radius: 50%;
+  border: 2px solid $white;
+  box-shadow: 0 6px 5px $gray;
+}
+
+#experience, #education, #projects {
+  display: none;
+}
+
+.section-button {
+  font-size: 1.2em;
+  font-family: inherit;
+  border: 0;
+  padding: 0.5em 2em;
+  background-color: inherit;
+
+  &.selected {
+    background-color: $off-white;
+  }
+
+  &:hover, &:focus {
+    background-color: $gray;
+    color: $color-accent;
+  }
+}
+
+.section {
+  background-color: $off-white;
+  padding: 2em;
 }
