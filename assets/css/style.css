@@ -1,0 +1,49 @@
+body { font-family: 'IBM Plex Serif', serif; margin: 0; padding: 0; }
+
+a { text-decoration: none; font-weight: 700; color: #E91E63; }
+
+a:hover, a:focus, a:active { color: #AD1457; }
+
+hr { border: 0; height: 1px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc); }
+
+h1 { text-align: center; padding: 10px; color: #E91E63; font-size: 1.5em; font-family: 'Playfair Display'; }
+
+h2 { font-style: italic; }
+
+h2, h3 { color: #AD1457; }
+
+h4 { text-align: center; font-size: 1em; font-family: 'Playfair Display'; }
+
+#content { width: 80%; margin: 0 auto; padding-top: 48px; }
+
+.center { display: block; margin-left: auto; margin-right: auto; }
+
+nav { width: 80%; margin: auto; display: flex; font-size: 1.2em; }
+
+svg { width: 1.2em; margin: 0 0.5em; }
+
+.logo-svg { fill: #E91E63; }
+
+.logo-svg:hover { fill: #AD1457; }
+
+#header { position: fixed; width: 100%; height: 48px; overflow: auto; background-color: #eee; border-bottom: 1px solid rgba(0, 0, 0, 0.2); display: flex; }
+
+#header nav { justify-content: space-between; }
+
+#home { font-size: 1.2em; }
+
+#intro { padding: 5%; }
+
+#photo { max-width: 300px; border-radius: 50%; border: 2px solid #fff; box-shadow: 0 6px 5px #bbb; }
+
+#experience, #education, #projects { display: none; }
+
+.section-button { font-size: 1.2em; font-family: inherit; border: 0; padding: 0.5em 2em; background-color: inherit; }
+
+.section-button.selected { background-color: #eee; }
+
+.section-button:hover, .section-button:focus { background-color: #bbb; color: #E91E63; }
+
+.section { background-color: #eee; padding: 2em; }
+
+/*# sourceMappingURL=style.css.map */
