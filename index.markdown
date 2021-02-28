@@ -17,18 +17,18 @@ Through a variety of academic, business, and pastoral roles, I have been fortuna
 
 ## **Experience**
 ### **Business Development Executive** / *Bristol SU*
-> January 2020 - Present, Bristol, UK
+> January 2020 - Present, Bristol, UK 
 I am currently working as a Business Development Executive within the Events and Business Development Team at the University of Bristol Students’ Union. Here I am responsible for liaising with a variety of large businesses to organise brand activations, digital marketing, and client contracts as a primary account manager.
 I also work with SMEs across the city, providing support and advice on how to engage the 26,000 students currently studying at the University. 
 
 This year my team organised two of the biggest events of my portfolio - the University of Bristol Official Welcome Fair in October 2020 and the Refreshers Fair in January 2021. In the period leading up to these 8,000+ attendee digital events, I created B2B marketing campaigns, produced an extensive media pack, and onboarded over 55 commercial partners.
 
 ### **Showroom Assistant** / *Tom Howley Ltd*
-> July 2018 - Present, Bristol UK
+> July 2018 - Present, Bristol UK 
 I am currently acting as a part-time showroom and sales assistant at the Tom Howley Bristol showroom, a leading bespoke kitchen designer. Here I am responsible for converting leads and generating sales, greeting and dealing with customer requests, as well as organizing meetings for designers. I have enjoyed the challenge of working within a new sector of industry and demonstrating my sales performance, impeccable customer service, and organisational skills.
 
 ### **Senior Resident** / *University of Bristol*
-> September 2017 - September 2019, Bristol UK
+> September 2017 - September 2019, Bristol UK 
 Acting as a Senior Resident for the University of Bristol, I was responsible for ensuring the pastoral care and wellbeing of incoming first-year students moving into halls of residence. Although challenging in nature, I thoroughly enjoyed taking on this responsibility and it enabled me to develop several new skills while pushing myself to be a well rounded, professional, and supportive individual. I was responsible for administration, support, and daily operation of the halls of residence, as well as organising events and providing pastoral talks to large numbers of students.
 
 <hr> 
