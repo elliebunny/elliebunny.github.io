@@ -6,7 +6,7 @@ layout: default
 
 ![Elle Garner](assets/ElleGarnerPhoto.jpg){:#photo.center}
 
-# **Business Development, Events, and Media**  
+# **Analytics, Campaigns, Gaming**  
 
 </div>
 
@@ -19,11 +19,9 @@ layout: default
 
 <div id="about_me" markdown="1" class="section">
 
-Through a variety of academic, business, and pastoral roles, I have been fortunate enough to gain a well-rounded, dynamic, and forward-thinking view into what makes a valuable and successful business. Responsibility is a feature I have always excelled in managing, and paired with my reliability, I have been trusted to take initiative and leadership in both professional and personal environments. I strive to become an asset to any new team, both socially and professionally, and pride myself on my problem-solving and flexibility. After graduating from the University of Bristol with a degree in Mathematics and Philosophy, I am now applying my skills in logical reasoning, data analysis, and communication, to pursue a career in Business Development, Events, and Media.
+Through a variety of analytical, business development, and cross-departmental roles, I have been fortunate enough to gain insight into what I believe is a well-rounded, dynamic, and forward-thinking view into the creation of successful campaigns and unbeaten strategies. Responsibility is a feature I have always excelled in managing, paired with my reliability, I have been trusted to take initiative and leadership in both professional and personal environments. Currently, I am working as a Business Analyst (Manager) for EXCEL Esports, a leading UK esports organization, where I am responsible for the organization’s data strategy, analysis, and reporting which aid in guiding key business decisions.
 
 <hr>
-
-My passion for both business development and the games industry has seen me take on voluntary roles as ‘Business Operations Director’ for a small Esports organisation based in the UK, as well as spending my spare time moderating Discord servers and helping out with the logistics and casting of small scale Esports tournaments. 
 
 I also have an interest in computing and technology, [building my own PC](https://imgur.com/59Fgf1N), which I use for gaming, design, and streaming, as well as recently teaching myself to code.
 
@@ -32,6 +30,16 @@ From 2015 to 2018, I was appointed president of the Bristol Donors Society at th
 </div>
 
 <div id="experience" markdown="1" class="section">
+
+### **Business Analyst (Manager)** / *EXCEL Esports*
+> November 2022 - Present, London, UK 
+
+I am currently working as a Business Analyst for EXCEL Esports, a leading UK esports organisation which fields teams in League of Legends (LEC), Valorant (Game Changers), and FIFA (ePrem, FGS). I am responsible for the organizations data strategy, from building out a quality data framework to support business analysis requirements, developing relationships with data partners, to finally communicating key insights and findings with stakeholders. This position has enabled me to develop solutions to complex business problems and senior level projects, as well as driving the initiative to utilize data in all areas of the business, to drive change and EXCEL’s continued expansion.
+
+### **Commercial Analyst** / *EXCEL Esports*
+> June 2021 - November 2022, London, UK 
+
+Prior to being promoted to Business Analyst, I started off my career at EXCEL Esports as their Commercial Analyst. In this role I was responsible for gathering data insights for current and prospective partners, utilizing tools such as YouGov, GWI, as well as the creation of bespoke partnership surveys. I collected data from EXCEL’s ecommerce offering and generated regular, clear reports to explain complex sales trends. I also implemented EXCEL’s media asset and valuation tracking in partnership with Shikenso Analytics. During my time working within the commercial and partnership team, our efforts lead to EXCEL and lead partner EE being awarded ‘Esports and Gaming Sponsorship 2023’ at the European Sponsorship Awards.
 
 ### **Business Development Executive** / *Bristol SU*
 > January 2020 - Present, Bristol, UK 
